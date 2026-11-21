@@ -195,11 +195,11 @@ d.line([(RX0 + 26, 92), (RX1 - 26, 92)], fill=INK, width=2)
 text(RX0 + 26, 102, "ENTRY AND EXIT STAMPS — TRAVEL HISTORY", SANS(9), fill=GREY_TXT)
 
 stamps = [
-    ("FARLANE", "DEPARTURE", "PORT LANT", "18 APR 2023", RED, -3, "rect"),
+    ("FARLANE", "DEPARTURE", "PORT LANT", "18 APR 2023", RED, -2, "rect"),
     ("OSTRAVIA", "ARRIVAL", "GREY QUAY", "19 APR 2023", BLUE, 2, "rect"),
     ("OSTRAVIA", "DEPARTURE", "GREY QUAY", "02 MAY 2023", BLUE, -2, "rect"),
     ("FARLANE", "ARRIVAL", "PORT LANT", "03 MAY 2023", RED, 3, "rect"),
-    ("FARLANE", "DEPARTURE", "PORT LANT", "11 OCT 2023", RED, 2, "oval"),
+    ("FARLANE", "DEPARTURE", "PORT LANT", "11 OCT 2023", RED, 3, "oval"),
     ("KORVIA", "ARRIVAL", "HAVEN PIER", "12 OCT 2023", TEAL, -3, "oval"),
     ("KORVIA", "DEPARTURE", "HAVEN PIER", "27 OCT 2023", TEAL, 2, "oval"),
     ("FARLANE", "ARRIVAL", "PORT LANT", "28 OCT 2023", RED, -2, "oval"),
